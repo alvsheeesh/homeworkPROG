@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alvs\\source\\repos\\Silva2_Alvaro_PROG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF0B012-CC8C-4FAD-AD7D-798C1A300156}|Silva2_Alvaro_PROG.vcxproj|C:\\Users\\alvs\\source\\repos\\Silva2_Alvaro_PROG\\Silva2_Alvaro_PROG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FCF0B012-CC8C-4FAD-AD7D-798C1A300156}|Silva2_Alvaro_PROG.vcxproj|solutionrelative:Silva2_Alvaro_PROG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Silva2_Alvaro_PROG.cpp",
+              "DocumentMoniker": "C:\\Users\\alvs\\source\\repos\\Silva2_Alvaro_PROG\\Silva2_Alvaro_PROG.cpp",
+              "RelativeDocumentMoniker": "Silva2_Alvaro_PROG.cpp",
+              "ToolTip": "C:\\Users\\alvs\\source\\repos\\Silva2_Alvaro_PROG\\Silva2_Alvaro_PROG.cpp",
+              "RelativeToolTip": "Silva2_Alvaro_PROG.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-25T14:16:30.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

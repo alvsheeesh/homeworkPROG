@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\repos\\Silva3_Alvaro_PROG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0241A5E6-EC07-402B-8EE5-276664EA5770}|Silva3_Alvaro_PROG.vcxproj|E:\\repos\\Silva3_Alvaro_PROG\\Silva3_Alvaro_PROG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0241A5E6-EC07-402B-8EE5-276664EA5770}|Silva3_Alvaro_PROG.vcxproj|solutionrelative:Silva3_Alvaro_PROG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Silva3_Alvaro_PROG.cpp",
+              "DocumentMoniker": "E:\\repos\\Silva3_Alvaro_PROG\\Silva3_Alvaro_PROG.cpp",
+              "RelativeDocumentMoniker": "Silva3_Alvaro_PROG.cpp",
+              "ToolTip": "E:\\repos\\Silva3_Alvaro_PROG\\Silva3_Alvaro_PROG.cpp",
+              "RelativeToolTip": "Silva3_Alvaro_PROG.cpp",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAAJEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-05T09:10:29.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
